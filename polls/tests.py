@@ -1,5 +1,4 @@
 from django.test import TestCase
 
 # Create your tests here.
-# this is our test page.
-
+# this is test page of our project.
